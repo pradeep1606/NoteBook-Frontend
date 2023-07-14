@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.addNote {
+  border-radius: 8px;
+  border-color: #0dcaf0;
+}
+.notes {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  margin: 10px 10px 10px 0;
+  border-radius: 8px;
+}
+.fn{
+  font-weight: 650;
+}
+.fn1{
+  font-weight: 500;
+}
+.fn2{
+  font-weight: 400;
+}
